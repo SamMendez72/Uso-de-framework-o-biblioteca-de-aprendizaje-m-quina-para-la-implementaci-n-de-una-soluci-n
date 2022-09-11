@@ -1,2 +1,2 @@
-# Uso-de-framework-o-biblioteca-de-aprendizaje-m-quina-para-la-implementaci-n-de-una-soluci-n
+# Uso de un framework o biblioteca de aprendizaje máquina para la implementación de una solución
 Construcción de un modelo de ML partiendo de un framework/librería
